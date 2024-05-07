@@ -1,0 +1,6 @@
+streamlit
+pandas
+category_encoders
+sklearn
+matplotlib
+seaborn
